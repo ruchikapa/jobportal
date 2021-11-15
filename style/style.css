@@ -128,7 +128,7 @@ section{
 .home{
     padding-top: 18rem;
     overflow-x: hidden;
-    background: url(./image/bg600.jpg);
+    background: url(../image/bg600.jpg);
     background-size: cover;
     background-position: center;
     text-align: center;
