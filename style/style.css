@@ -128,7 +128,7 @@ section{
 .home{
     padding-top: 18rem;
     overflow-x: hidden;
-    background: url(../../image/bg600.jpg);
+    background: url(../image/bg600.jpg);
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -161,7 +161,7 @@ section{
 }
 
 .services{
-    background: url(../../image/bg500.jpg) no-repeat;
+    background: url(../image/bg500.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -226,7 +226,7 @@ section{
 }
 
 .vehicles{
-    background: url(../../image/bg200.jpg) no-repeat;
+    background: url(../image/bg200.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -297,7 +297,7 @@ section{
 
   
   .services-section{
-    background: url(../../image/bg400.jpg);
+    background: url(../image/bg400.jpg);
     background-size: cover;
     padding: 100px 0;
     z-index: 100;
@@ -379,7 +379,7 @@ section{
 
 .newsletter{
     padding:6rem 2rem;
-    background: url(../../image/subscribe.jpg) no-repeat;
+    background: url(../image/subscribe.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     text-align: center;
